@@ -1,0 +1,1 @@
+document.body.innerHTML = '<h1>Пишу из Джовании</h1>'
